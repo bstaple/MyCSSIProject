@@ -6,3 +6,7 @@ This is my CSSI project. It might do some stuff.
 
 stuff
 
+## My github sectiom
+
+this was added on github
+
